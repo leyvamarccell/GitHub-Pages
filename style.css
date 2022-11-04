@@ -1,0 +1,9 @@
+body {
+    background-color: #282c34;
+}
+
+button {
+    border-radius: 8px;
+    background-color: lightblue;
+    color: white;
+}
